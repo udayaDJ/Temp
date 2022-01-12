@@ -1,7 +1,0 @@
-this is commit 1
-
-
-this is feature branch 2
-
-this is feature branch 1
-
